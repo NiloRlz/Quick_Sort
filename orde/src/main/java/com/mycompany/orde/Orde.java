@@ -27,6 +27,7 @@ public class Orde {
     
     }
     
+    //METODO ORDENAMIENTO
     public static void quicksort(int[] arreglo, int izq, int der) {
     
         // ELEGIR PIVOTE
